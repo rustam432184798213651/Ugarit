@@ -25,7 +25,7 @@
     npm i expo-intent-launcher
     npm i @bildau/rn-pdf-reader
     npm i react-native-popup-menu
-
+    npx expo install --fix
 
     Далее, введите команду npx expo start в терминале VScode.
 
